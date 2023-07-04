@@ -1,4 +1,4 @@
-My AI Portfolio 🚀
+My Portfolio 🚀
 
 Welcome to my Machine Learning and Deep Learning portfolio! As a dedicated Physicist 🧪 and AI Engineer 👨‍💻, this repository showcases my Python projects, displaying my skills and expertise across a broad spectrum of AI technologies.
 
